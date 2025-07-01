@@ -18,19 +18,10 @@ h2{
     font-family: fantasy;
 }
 
-.imagem {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    object-fit: cover;
-    border-radius:15px;
-    margin-top:10px;
-}
 
-h3{ 
     font-style: italic;
     font-family: fantasy;
-    color:#73411F; 
+     color:#73411F;
 }
 h3{
     font-style:italic;
