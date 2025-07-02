@@ -5,7 +5,35 @@ header {
 header a{
  color: #816238;
 } 
+body{
+   background-color: #FEF6E1;
+   text-align-last: left;
+   font-size: 24px;
+}
 
+.imagem {
+   width: 100%;
+   max-width:400px;
+   height: auto;
+   object-fit: cover;
+   border-radius: 15px;
+   margin: 10px;
+   margin-right: 20px;
+}
+.caixa {
+   font-size: 20px;
+   display: flex;
+   flex-grow: 1;
+   justify-content: space-between;
+   max-width: 100%;
+   width: 90%;
+   height: auto;
+   border: 2px solid #DDB784;
+   border-radius: 15px;
+   background-color: #DDB784;
+   padding: 20px;
+   margin-left: 20px;
+}
 footer{
    background-color:#DDB784;
    padding: 20px;
