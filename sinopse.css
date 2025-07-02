@@ -10,8 +10,8 @@ h2{
     font-style: italic;
     font-family: fantasy;
     color:#B6885D;
-   
-    .imagem {
+}
+ .imagem   {
    width: 100%;
    max-width:400px;
    height: auto;
@@ -49,6 +49,5 @@ font-style: italic;
    margin: 10px;
    margin-right: 20px;
 }
-
 
 
