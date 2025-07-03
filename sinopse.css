@@ -17,7 +17,7 @@ font-style: italic;
     color:#B6885D;
   
     .imagem {
-   width: 100%;
+   width: 50%;
    max-width:400px;
    height: auto;
    object-fit: cover;
