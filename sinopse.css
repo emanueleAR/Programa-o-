@@ -16,14 +16,15 @@ font-style: italic;
     font-family: fantasy;
     color:#B6885D;
   
-    .imagem {
-   width: 50%;
-   max-width:400px;
-   height: auto;
-   object-fit: cover;
-   border-radius: 15px;
-   margin: 10px;
-   margin-right: 20px;
+   .imagem {
+  width: 80%;
+  max-width: 300px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 15px;
+  margin: 10px;
+  margin-right: 20px;
 }
+
 
 
